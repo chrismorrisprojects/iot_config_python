@@ -1,0 +1,2 @@
+Active WAN IP Address,Network Service Type,Persisted WAN/Cellular Bytes Sent,WAN/Cellular Bytes Sent,WAN/Cellular Bytes Rcvd,Cell Info,Persisted WAN/Cellular Bytes Rcvd,Signal Strength (RSSI),Network State,Current Network Operator,Cellular IP Address,Channel,Phone Number,Customer Device Name
+166.130.66.69,11,2810118551,1541542710,1879823819,CellInfo: TCH: 5780 RSSI: -71 LAC: 28958 CellID: 135888486,8976124838,-70,Network Ready,AT&T,166.130.66.69,5780,18325385368,LT53840026021025
